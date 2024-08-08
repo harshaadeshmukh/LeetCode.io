@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/harshaadeshmukh/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/harshaadeshmukh/DSA/tree/master/0018-4sum) |
 | [0054-spiral-matrix](https://github.com/harshaadeshmukh/DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/harshaadeshmukh/DSA/tree/master/0059-spiral-matrix-ii) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/harshaadeshmukh/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/harshaadeshmukh/DSA/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
@@ -78,8 +79,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/harshaadeshmukh/DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/harshaadeshmukh/DSA/tree/master/0059-spiral-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/harshaadeshmukh/DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/harshaadeshmukh/DSA/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
