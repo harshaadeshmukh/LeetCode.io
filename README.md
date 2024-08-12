@@ -118,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/harshaadeshmukh/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/harshaadeshmukh/DSA/tree/master/0338-counting-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/harshaadeshmukh/DSA/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
