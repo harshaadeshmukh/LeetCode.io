@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/harshaadeshmukh/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/harshaadeshmukh/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0136-single-number](https://github.com/harshaadeshmukh/DSA/tree/master/0136-single-number) |
+| [0740-delete-and-earn](https://github.com/harshaadeshmukh/DSA/tree/master/0740-delete-and-earn) |
 | [0870-magic-squares-in-grid](https://github.com/harshaadeshmukh/DSA/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/harshaadeshmukh/DSA/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/harshaadeshmukh/DSA/tree/master/0921-spiral-matrix-iii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshaadeshmukh/DSA/tree/master/0001-two-sum) |
+| [0740-delete-and-earn](https://github.com/harshaadeshmukh/DSA/tree/master/0740-delete-and-earn) |
 | [0870-magic-squares-in-grid](https://github.com/harshaadeshmukh/DSA/tree/master/0870-magic-squares-in-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/harshaadeshmukh/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshaadeshmukh/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/harshaadeshmukh/DSA/tree/master/0338-counting-bits) |
+| [0740-delete-and-earn](https://github.com/harshaadeshmukh/DSA/tree/master/0740-delete-and-earn) |
 ## Bit Manipulation
 |  |
 | ------- |
