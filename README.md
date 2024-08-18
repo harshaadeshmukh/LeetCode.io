@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/harshaadeshmukh/DSA/tree/master/0263-ugly-number) |
 | [0273-integer-to-english-words](https://github.com/harshaadeshmukh/DSA/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/harshaadeshmukh/DSA/tree/master/0870-magic-squares-in-grid) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/harshaadeshmukh/DSA/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
