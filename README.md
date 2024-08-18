@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/harshaadeshmukh/DSA/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/harshaadeshmukh/DSA/tree/master/0263-ugly-number) |
 | [0273-integer-to-english-words](https://github.com/harshaadeshmukh/DSA/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/harshaadeshmukh/DSA/tree/master/0870-magic-squares-in-grid) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/harshaadeshmukh/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/harshaadeshmukh/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0136-single-number](https://github.com/harshaadeshmukh/DSA/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/harshaadeshmukh/DSA/tree/master/0204-count-primes) |
 | [0624-maximum-distance-in-arrays](https://github.com/harshaadeshmukh/DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0740-delete-and-earn](https://github.com/harshaadeshmukh/DSA/tree/master/0740-delete-and-earn) |
 | [0870-magic-squares-in-grid](https://github.com/harshaadeshmukh/DSA/tree/master/0870-magic-squares-in-grid) |
@@ -150,4 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/harshaadeshmukh/DSA/tree/master/0053-maximum-subarray) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/harshaadeshmukh/DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/harshaadeshmukh/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
