@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2227-sum-of-subarray-ranges](https://github.com/harshaadeshmukh/DSA/tree/master/2227-sum-of-subarray-ranges) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/harshaadeshmukh/DSA/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2727-number-of-senior-citizens](https://github.com/harshaadeshmukh/DSA/tree/master/2727-number-of-senior-citizens) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/harshaadeshmukh/DSA/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/harshaadeshmukh/DSA/tree/master/0338-counting-bits) |
 | [1839-decode-xored-array](https://github.com/harshaadeshmukh/DSA/tree/master/1839-decode-xored-array) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/harshaadeshmukh/DSA/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/harshaadeshmukh/DSA/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Divide and Conquer
 |  |
 | ------- |
