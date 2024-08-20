@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/harshaadeshmukh/DSA/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/harshaadeshmukh/DSA/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/harshaadeshmukh/DSA/tree/master/0870-magic-squares-in-grid) |
+| [0909-stone-game](https://github.com/harshaadeshmukh/DSA/tree/master/0909-stone-game) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/harshaadeshmukh/DSA/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## String
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/harshaadeshmukh/DSA/tree/master/0861-flipping-an-image) |
 | [0870-magic-squares-in-grid](https://github.com/harshaadeshmukh/DSA/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/harshaadeshmukh/DSA/tree/master/0890-lemonade-change) |
+| [0909-stone-game](https://github.com/harshaadeshmukh/DSA/tree/master/0909-stone-game) |
 | [0921-spiral-matrix-iii](https://github.com/harshaadeshmukh/DSA/tree/master/0921-spiral-matrix-iii) |
 | [1839-decode-xored-array](https://github.com/harshaadeshmukh/DSA/tree/master/1839-decode-xored-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/harshaadeshmukh/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/harshaadeshmukh/DSA/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/harshaadeshmukh/DSA/tree/master/0338-counting-bits) |
 | [0740-delete-and-earn](https://github.com/harshaadeshmukh/DSA/tree/master/0740-delete-and-earn) |
+| [0909-stone-game](https://github.com/harshaadeshmukh/DSA/tree/master/0909-stone-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -171,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/harshaadeshmukh/DSA/tree/master/0204-count-primes) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/harshaadeshmukh/DSA/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
