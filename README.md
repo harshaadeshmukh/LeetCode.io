@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/harshaadeshmukh/DSA/tree/master/0592-fraction-addition-and-subtraction) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/harshaadeshmukh/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1252-break-a-palindrome](https://github.com/harshaadeshmukh/DSA/tree/master/1252-break-a-palindrome) |
+| [1777-determine-if-two-strings-are-close](https://github.com/harshaadeshmukh/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/harshaadeshmukh/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/harshaadeshmukh/DSA/tree/master/2727-number-of-senior-citizens) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/harshaadeshmukh/DSA/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -65,11 +66,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/harshaadeshmukh/DSA/tree/master/0264-ugly-number-ii) |
 | [0740-delete-and-earn](https://github.com/harshaadeshmukh/DSA/tree/master/0740-delete-and-earn) |
 | [0870-magic-squares-in-grid](https://github.com/harshaadeshmukh/DSA/tree/master/0870-magic-squares-in-grid) |
+| [1777-determine-if-two-strings-are-close](https://github.com/harshaadeshmukh/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/harshaadeshmukh/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshaadeshmukh/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
 | ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/harshaadeshmukh/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/harshaadeshmukh/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshaadeshmukh/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/harshaadeshmukh/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/harshaadeshmukh/DSA/tree/master/0018-4sum) |
+| [1777-determine-if-two-strings-are-close](https://github.com/harshaadeshmukh/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshaadeshmukh/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
