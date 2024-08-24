@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/harshaadeshmukh/DSA/tree/master/0273-integer-to-english-words) |
+| [0520-detect-capital](https://github.com/harshaadeshmukh/DSA/tree/master/0520-detect-capital) |
 | [0592-fraction-addition-and-subtraction](https://github.com/harshaadeshmukh/DSA/tree/master/0592-fraction-addition-and-subtraction) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/harshaadeshmukh/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1252-break-a-palindrome](https://github.com/harshaadeshmukh/DSA/tree/master/1252-break-a-palindrome) |
