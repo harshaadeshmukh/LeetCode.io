@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/harshaadeshmukh/DSA/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/harshaadeshmukh/DSA/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/harshaadeshmukh/DSA/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/harshaadeshmukh/DSA/tree/master/0264-ugly-number-ii) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/harshaadeshmukh/DSA/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/harshaadeshmukh/DSA/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/harshaadeshmukh/DSA/tree/master/0064-minimum-path-sum) |
 | [0264-ugly-number-ii](https://github.com/harshaadeshmukh/DSA/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/harshaadeshmukh/DSA/tree/master/0338-counting-bits) |
@@ -193,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/harshaadeshmukh/DSA/tree/master/0909-stone-game) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/harshaadeshmukh/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
