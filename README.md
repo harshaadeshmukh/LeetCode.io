@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/harshaadeshmukh/DSA/tree/master/0890-lemonade-change) |
 | [0909-stone-game](https://github.com/harshaadeshmukh/DSA/tree/master/0909-stone-game) |
 | [0921-spiral-matrix-iii](https://github.com/harshaadeshmukh/DSA/tree/master/0921-spiral-matrix-iii) |
+| [1325-path-with-maximum-probability](https://github.com/harshaadeshmukh/DSA/tree/master/1325-path-with-maximum-probability) |
 | [1839-decode-xored-array](https://github.com/harshaadeshmukh/DSA/tree/master/1839-decode-xored-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/harshaadeshmukh/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/harshaadeshmukh/DSA/tree/master/2227-sum-of-subarray-ranges) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/harshaadeshmukh/DSA/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/harshaadeshmukh/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1325-path-with-maximum-probability](https://github.com/harshaadeshmukh/DSA/tree/master/1325-path-with-maximum-probability) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -199,4 +201,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/harshaadeshmukh/DSA/tree/master/0062-unique-paths) |
+## Graph
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/harshaadeshmukh/DSA/tree/master/1325-path-with-maximum-probability) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/harshaadeshmukh/DSA/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
