@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/harshaadeshmukh/DSA/tree/master/0131-palindrome-partitioning) |
 | [0273-integer-to-english-words](https://github.com/harshaadeshmukh/DSA/tree/master/0273-integer-to-english-words) |
 | [0520-detect-capital](https://github.com/harshaadeshmukh/DSA/tree/master/0520-detect-capital) |
 | [0564-find-the-closest-palindrome](https://github.com/harshaadeshmukh/DSA/tree/master/0564-find-the-closest-palindrome) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/harshaadeshmukh/DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/harshaadeshmukh/DSA/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/harshaadeshmukh/DSA/tree/master/0064-minimum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/harshaadeshmukh/DSA/tree/master/0131-palindrome-partitioning) |
 | [0264-ugly-number-ii](https://github.com/harshaadeshmukh/DSA/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/harshaadeshmukh/DSA/tree/master/0338-counting-bits) |
 | [0740-delete-and-earn](https://github.com/harshaadeshmukh/DSA/tree/master/0740-delete-and-earn) |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshaadeshmukh/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/harshaadeshmukh/DSA/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
