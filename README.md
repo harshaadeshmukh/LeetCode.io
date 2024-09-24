@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/harshaadeshmukh/DSA/tree/master/2727-number-of-senior-citizens) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/harshaadeshmukh/DSA/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshaadeshmukh/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/harshaadeshmukh/DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Greedy
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/harshaadeshmukh/DSA/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2727-number-of-senior-citizens](https://github.com/harshaadeshmukh/DSA/tree/master/2727-number-of-senior-citizens) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/harshaadeshmukh/DSA/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/harshaadeshmukh/DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/harshaadeshmukh/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/harshaadeshmukh/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshaadeshmukh/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/harshaadeshmukh/DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Counting
 |  |
 | ------- |
@@ -245,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/harshaadeshmukh/DSA/tree/master/0908-middle-of-the-linked-list) |
+## Trie
+|  |
+| ------- |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/harshaadeshmukh/DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
