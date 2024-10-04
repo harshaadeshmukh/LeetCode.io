@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/harshaadeshmukh/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/harshaadeshmukh/DSA/tree/master/2227-sum-of-subarray-ranges) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/harshaadeshmukh/DSA/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/harshaadeshmukh/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2727-number-of-senior-citizens](https://github.com/harshaadeshmukh/DSA/tree/master/2727-number-of-senior-citizens) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/harshaadeshmukh/DSA/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/harshaadeshmukh/DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/harshaadeshmukh/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/harshaadeshmukh/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/harshaadeshmukh/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/harshaadeshmukh/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshaadeshmukh/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/harshaadeshmukh/DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Counting
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/harshaadeshmukh/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/harshaadeshmukh/DSA/tree/master/0539-minimum-time-difference) |
 | [1777-determine-if-two-strings-are-close](https://github.com/harshaadeshmukh/DSA/tree/master/1777-determine-if-two-strings-are-close) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/harshaadeshmukh/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshaadeshmukh/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshaadeshmukh/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0861-flipping-an-image](https://github.com/harshaadeshmukh/DSA/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/harshaadeshmukh/DSA/tree/master/0908-middle-of-the-linked-list) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/harshaadeshmukh/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Recursion
 |  |
 | ------- |
