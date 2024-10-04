@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshaadeshmukh/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0131-palindrome-partitioning](https://github.com/harshaadeshmukh/DSA/tree/master/0131-palindrome-partitioning) |
 | [0273-integer-to-english-words](https://github.com/harshaadeshmukh/DSA/tree/master/0273-integer-to-english-words) |
 | [0520-detect-capital](https://github.com/harshaadeshmukh/DSA/tree/master/0520-detect-capital) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/harshaadeshmukh/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/harshaadeshmukh/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/harshaadeshmukh/DSA/tree/master/0018-4sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshaadeshmukh/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0861-flipping-an-image](https://github.com/harshaadeshmukh/DSA/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/harshaadeshmukh/DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
@@ -265,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1694-make-sum-divisible-by-p](https://github.com/harshaadeshmukh/DSA/tree/master/1694-make-sum-divisible-by-p) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshaadeshmukh/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
