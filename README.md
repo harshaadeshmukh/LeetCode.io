@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/harshaadeshmukh/DSA/tree/master/0520-detect-capital) |
 | [0539-minimum-time-difference](https://github.com/harshaadeshmukh/DSA/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/harshaadeshmukh/DSA/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/harshaadeshmukh/DSA/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/harshaadeshmukh/DSA/tree/master/0592-fraction-addition-and-subtraction) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/harshaadeshmukh/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/harshaadeshmukh/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/harshaadeshmukh/DSA/tree/master/0001-two-sum) |
 | [0264-ugly-number-ii](https://github.com/harshaadeshmukh/DSA/tree/master/0264-ugly-number-ii) |
+| [0567-permutation-in-string](https://github.com/harshaadeshmukh/DSA/tree/master/0567-permutation-in-string) |
 | [0740-delete-and-earn](https://github.com/harshaadeshmukh/DSA/tree/master/0740-delete-and-earn) |
 | [0870-magic-squares-in-grid](https://github.com/harshaadeshmukh/DSA/tree/master/0870-magic-squares-in-grid) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/harshaadeshmukh/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/harshaadeshmukh/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/harshaadeshmukh/DSA/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshaadeshmukh/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0567-permutation-in-string](https://github.com/harshaadeshmukh/DSA/tree/master/0567-permutation-in-string) |
 | [0861-flipping-an-image](https://github.com/harshaadeshmukh/DSA/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/harshaadeshmukh/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/harshaadeshmukh/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -275,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshaadeshmukh/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/harshaadeshmukh/DSA/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
