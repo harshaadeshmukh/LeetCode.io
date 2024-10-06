@@ -1,25 +1,27 @@
 class Solution {
 public:
     bool checkInclusion(string s1, string s2) {
-        if (s1.length() > s2.length()) return false;
+        int n = s1.size();
+        int m = s2.size();
 
-        vector<int> s1Count(26, 0), s2Count(26, 0);
-        
-        // Count frequencies of s1 and the first window in s2
-        for (int i = 0; i < s1.length(); ++i) {
-            s1Count[s1[i] - 'a']++;
-            s2Count[s2[i] - 'a']++;
+        sort(s1.begin(),s1.end());
+
+        if(n>m)
+        {
+            return false;
         }
 
-        // Slide the window over s2
-        for (int i = 0; i < s2.length() - s1.length(); ++i) {
-            if (s1Count == s2Count) return true;
-            // Update the window
-            s2Count[s2[i] - 'a']--;
-            s2Count[s2[i + s1.length()] - 'a']++;
-        }
+        for(int i=0;i<=m-n;i++)
+        {
+            string new_s = s2.substr(i,n);
 
-        // Check the last window
-        return s1Count == s2Count;
+            sort(new_s.begin(),new_s.end());
+
+            if(new_s==s1)
+            {
+                return true;
+            }
+        }
+        return false;
     }
 };
