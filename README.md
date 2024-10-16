@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/harshaadeshmukh/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/harshaadeshmukh/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1252-break-a-palindrome](https://github.com/harshaadeshmukh/DSA/tree/master/1252-break-a-palindrome) |
+| [1304-longest-happy-string](https://github.com/harshaadeshmukh/DSA/tree/master/1304-longest-happy-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/harshaadeshmukh/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/harshaadeshmukh/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/harshaadeshmukh/DSA/tree/master/1923-sentence-similarity-iii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/harshaadeshmukh/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0890-lemonade-change](https://github.com/harshaadeshmukh/DSA/tree/master/0890-lemonade-change) |
 | [1252-break-a-palindrome](https://github.com/harshaadeshmukh/DSA/tree/master/1252-break-a-palindrome) |
+| [1304-longest-happy-string](https://github.com/harshaadeshmukh/DSA/tree/master/1304-longest-happy-string) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/harshaadeshmukh/DSA/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshaadeshmukh/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Array
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/harshaadeshmukh/DSA/tree/master/0264-ugly-number-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/harshaadeshmukh/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/harshaadeshmukh/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1304-longest-happy-string](https://github.com/harshaadeshmukh/DSA/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/harshaadeshmukh/DSA/tree/master/1325-path-with-maximum-probability) |
 ## Dynamic Programming
 |  |
