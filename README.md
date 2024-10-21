@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1197-parsing-a-boolean-expression](https://github.com/harshaadeshmukh/DSA/tree/master/1197-parsing-a-boolean-expression) |
 | [1252-break-a-palindrome](https://github.com/harshaadeshmukh/DSA/tree/master/1252-break-a-palindrome) |
 | [1304-longest-happy-string](https://github.com/harshaadeshmukh/DSA/tree/master/1304-longest-happy-string) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/harshaadeshmukh/DSA/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/harshaadeshmukh/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/harshaadeshmukh/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/harshaadeshmukh/DSA/tree/master/1923-sentence-similarity-iii) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/harshaadeshmukh/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1319-unique-number-of-occurrences](https://github.com/harshaadeshmukh/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1694-make-sum-divisible-by-p](https://github.com/harshaadeshmukh/DSA/tree/master/1694-make-sum-divisible-by-p) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/harshaadeshmukh/DSA/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/harshaadeshmukh/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/harshaadeshmukh/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/harshaadeshmukh/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/harshaadeshmukh/DSA/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/harshaadeshmukh/DSA/tree/master/0131-palindrome-partitioning) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/harshaadeshmukh/DSA/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Linked List
 |  |
 | ------- |
