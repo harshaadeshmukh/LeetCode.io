@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/harshaadeshmukh/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/harshaadeshmukh/DSA/tree/master/2227-sum-of-subarray-ranges) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/harshaadeshmukh/DSA/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2554-minimum-total-distance-traveled](https://github.com/harshaadeshmukh/DSA/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/harshaadeshmukh/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2727-number-of-senior-citizens](https://github.com/harshaadeshmukh/DSA/tree/master/2727-number-of-senior-citizens) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/harshaadeshmukh/DSA/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/harshaadeshmukh/DSA/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/harshaadeshmukh/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1777-determine-if-two-strings-are-close](https://github.com/harshaadeshmukh/DSA/tree/master/1777-determine-if-two-strings-are-close) |
+| [2554-minimum-total-distance-traveled](https://github.com/harshaadeshmukh/DSA/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/harshaadeshmukh/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshaadeshmukh/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/harshaadeshmukh/DSA/tree/master/0338-counting-bits) |
 | [0740-delete-and-earn](https://github.com/harshaadeshmukh/DSA/tree/master/0740-delete-and-earn) |
 | [0909-stone-game](https://github.com/harshaadeshmukh/DSA/tree/master/0909-stone-game) |
+| [2554-minimum-total-distance-traveled](https://github.com/harshaadeshmukh/DSA/tree/master/2554-minimum-total-distance-traveled) |
 ## Bit Manipulation
 |  |
 | ------- |
