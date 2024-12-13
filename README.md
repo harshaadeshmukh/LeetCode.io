@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/harshaadeshmukh/DSA/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2554-minimum-total-distance-traveled](https://github.com/harshaadeshmukh/DSA/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/harshaadeshmukh/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/harshaadeshmukh/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2727-number-of-senior-citizens](https://github.com/harshaadeshmukh/DSA/tree/master/2727-number-of-senior-citizens) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/harshaadeshmukh/DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/harshaadeshmukh/DSA/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/harshaadeshmukh/DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/harshaadeshmukh/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/harshaadeshmukh/DSA/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/harshaadeshmukh/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshaadeshmukh/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/harshaadeshmukh/DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Counting
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/harshaadeshmukh/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [2554-minimum-total-distance-traveled](https://github.com/harshaadeshmukh/DSA/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/harshaadeshmukh/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/harshaadeshmukh/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/harshaadeshmukh/DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshaadeshmukh/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/harshaadeshmukh/DSA/tree/master/0592-fraction-addition-and-subtraction) |
 | [0861-flipping-an-image](https://github.com/harshaadeshmukh/DSA/tree/master/0861-flipping-an-image) |
 | [0921-spiral-matrix-iii](https://github.com/harshaadeshmukh/DSA/tree/master/0921-spiral-matrix-iii) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/harshaadeshmukh/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Tree
 |  |
 | ------- |
@@ -240,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/harshaadeshmukh/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1304-longest-happy-string](https://github.com/harshaadeshmukh/DSA/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/harshaadeshmukh/DSA/tree/master/1325-path-with-maximum-probability) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/harshaadeshmukh/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
