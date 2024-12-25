@@ -215,18 +215,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/harshaadeshmukh/DSA/tree/master/0110-balanced-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/harshaadeshmukh/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/harshaadeshmukh/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/harshaadeshmukh/DSA/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/harshaadeshmukh/DSA/tree/master/0110-balanced-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/harshaadeshmukh/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/harshaadeshmukh/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/harshaadeshmukh/DSA/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/harshaadeshmukh/DSA/tree/master/0110-balanced-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/harshaadeshmukh/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/harshaadeshmukh/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/harshaadeshmukh/DSA/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Search Tree
@@ -341,5 +344,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/harshaadeshmukh/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/harshaadeshmukh/DSA/tree/master/2677-cousins-in-binary-tree-ii) |
 <!---LeetCode Topics End-->
