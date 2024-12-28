@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/harshaadeshmukh/DSA/tree/master/0890-lemonade-change) |
 | [0909-stone-game](https://github.com/harshaadeshmukh/DSA/tree/master/0909-stone-game) |
 | [0921-spiral-matrix-iii](https://github.com/harshaadeshmukh/DSA/tree/master/0921-spiral-matrix-iii) |
+| [1063-best-sightseeing-pair](https://github.com/harshaadeshmukh/DSA/tree/master/1063-best-sightseeing-pair) |
 | [1319-unique-number-of-occurrences](https://github.com/harshaadeshmukh/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1325-path-with-maximum-probability](https://github.com/harshaadeshmukh/DSA/tree/master/1325-path-with-maximum-probability) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/harshaadeshmukh/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/harshaadeshmukh/DSA/tree/master/0338-counting-bits) |
 | [0740-delete-and-earn](https://github.com/harshaadeshmukh/DSA/tree/master/0740-delete-and-earn) |
 | [0909-stone-game](https://github.com/harshaadeshmukh/DSA/tree/master/0909-stone-game) |
+| [1063-best-sightseeing-pair](https://github.com/harshaadeshmukh/DSA/tree/master/1063-best-sightseeing-pair) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/harshaadeshmukh/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/harshaadeshmukh/DSA/tree/master/2554-minimum-total-distance-traveled) |
 ## Bit Manipulation
