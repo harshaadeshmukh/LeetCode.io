@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/harshaadeshmukh/DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/harshaadeshmukh/DSA/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/harshaadeshmukh/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1619-path-crossing](https://github.com/harshaadeshmukh/DSA/tree/master/1619-path-crossing) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/harshaadeshmukh/DSA/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/harshaadeshmukh/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/harshaadeshmukh/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/harshaadeshmukh/DSA/tree/master/0870-magic-squares-in-grid) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/harshaadeshmukh/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1319-unique-number-of-occurrences](https://github.com/harshaadeshmukh/DSA/tree/master/1319-unique-number-of-occurrences) |
+| [1619-path-crossing](https://github.com/harshaadeshmukh/DSA/tree/master/1619-path-crossing) |
 | [1694-make-sum-divisible-by-p](https://github.com/harshaadeshmukh/DSA/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/harshaadeshmukh/DSA/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/harshaadeshmukh/DSA/tree/master/1777-determine-if-two-strings-are-close) |
