@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/harshaadeshmukh/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/harshaadeshmukh/DSA/tree/master/1923-sentence-similarity-iii) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/harshaadeshmukh/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2465-shifting-letters-ii](https://github.com/harshaadeshmukh/DSA/tree/master/2465-shifting-letters-ii) |
 | [2727-number-of-senior-citizens](https://github.com/harshaadeshmukh/DSA/tree/master/2727-number-of-senior-citizens) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/harshaadeshmukh/DSA/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshaadeshmukh/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/harshaadeshmukh/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/harshaadeshmukh/DSA/tree/master/2227-sum-of-subarray-ranges) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/harshaadeshmukh/DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2465-shifting-letters-ii](https://github.com/harshaadeshmukh/DSA/tree/master/2465-shifting-letters-ii) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/harshaadeshmukh/DSA/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2554-minimum-total-distance-traveled](https://github.com/harshaadeshmukh/DSA/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/harshaadeshmukh/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1694-make-sum-divisible-by-p](https://github.com/harshaadeshmukh/DSA/tree/master/1694-make-sum-divisible-by-p) |
+| [2465-shifting-letters-ii](https://github.com/harshaadeshmukh/DSA/tree/master/2465-shifting-letters-ii) |
 ## String Matching
 |  |
 | ------- |
